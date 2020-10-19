@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  19 OCT 2020 21:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  19 OCT 2020 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1237,7 +1237,7 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 16
 (c:/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )<<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=188, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=204, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
 Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 175.
@@ -1262,32 +1262,32 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 ...�лиза солей}{25}{subsection.17.1}
+l.31 ...{\numberline {15.\relax }}{24}{section.15}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2] (./TeX_Files/1.tex) [3] (./TeX_Files/2.tex
-<Pictures/2_table.jpg, id=280, 803.0pt x 573.14125pt>
+<Pictures/2_table.jpg, id=302, 803.0pt x 573.14125pt>
 File: Pictures/2_table.jpg Graphic file (type jpg)
 <use Pictures/2_table.jpg>
 Package pdftex.def Info: Pictures/2_table.jpg  used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 365.56729pt.
  [4 <./Pictures/2_table.jpg>]
-<Pictures/2_block.png, id=287, 800.0289pt x 530.9436pt>
+<Pictures/2_block.png, id=309, 800.0289pt x 530.9436pt>
 File: Pictures/2_block.png Graphic file (type png)
 <use Pictures/2_block.png>
 Package pdftex.def Info: Pictures/2_block.png  used on input line 55.
 (pdftex.def)             Requested size: 358.50317pt x 237.92592pt.
  [5 <./Pictures/2_block.png>]
-<Pictures/2_properties.png, id=296, 933.4875pt x 539.1342pt>
+<Pictures/2_properties.png, id=318, 933.4875pt x 539.1342pt>
 File: Pictures/2_properties.png Graphic file (type png)
 <use Pictures/2_properties.png>
 Package pdftex.def Info: Pictures/2_properties.png  used on input line 66.
 (pdftex.def)             Requested size: 358.50317pt x 207.05315pt.
 ) [6 <./Pictures/2_properties.png>] (./TeX_Files/3.tex) [7]
 (./TeX_Files/4.tex) [8] (./TeX_Files/5.tex) [9] (./TeX_Files/6.tex
-<Pictures/6_atom.png, id=316, 1330.9725pt x 791.95876pt>
+<Pictures/6_atom.png, id=339, 1330.9725pt x 791.95876pt>
 File: Pictures/6_atom.png Graphic file (type png)
 <use Pictures/6_atom.png>
 Package pdftex.def Info: Pictures/6_atom.png  used on input line 53.
@@ -1306,79 +1306,80 @@ Overfull \hbox (2.11345pt too wide) in paragraph at lines 13--14
  []
 
 [12]
-<Pictures//7.example.png, id=335, 359.09157pt x 228.10219pt>
+<Pictures//7.example.png, id=357, 359.09157pt x 228.10219pt>
 File: Pictures//7.example.png Graphic file (type png)
 <use Pictures//7.example.png>
 Package pdftex.def Info: Pictures//7.example.png  used on input line 64.
 (pdftex.def)             Requested size: 358.50317pt x 227.7431pt.
  [13]) [14 <./Pictures//7.example.png>] (./TeX_Files/8.tex) [15]
-(./TeX_Files/9.tex) [16] (./TeX_Files/10.tex) [17] (./TeX_Files/11.tex)
-[18] (./TeX_Files/12.tex
-<Pictures/12_metalrow.png, id=374, 426.09187pt x 216.05719pt>
+(./TeX_Files/9.tex) [16] (./TeX_Files/10.tex) [17] (./TeX_Files/11.tex [18])
+[19] (./TeX_Files/12.tex
+<Pictures/12_metalrow.png, id=404, 426.09187pt x 216.05719pt>
 File: Pictures/12_metalrow.png Graphic file (type png)
 <use Pictures/12_metalrow.png>
 Package pdftex.def Info: Pictures/12_metalrow.png  used on input line 24.
 (pdftex.def)             Requested size: 512.14963pt x 259.70906pt.
- [19 <./Pictures/12_metalrow.png>]) [20]
-(./TeX_Files/13.tex) [21] (./TeX_Files/14.tex) [22] (./TeX_Files/15.tex)
-[23] (./TeX_Files/16.tex) [24] (./TeX_Files/17.tex
-<Pictures/17_acidbase.png, id=402, 1293.83376pt x 662.475pt>
+ [20 <./Pictures/12_metalrow.png>]) [21]
+(./TeX_Files/13.tex) [22] (./TeX_Files/14.tex) [23] (./TeX_Files/15.tex)
+[24] (./TeX_Files/16.tex) [25] (./TeX_Files/17.tex
+<Pictures/17_acidbase.png, id=432, 1293.83376pt x 662.475pt>
 File: Pictures/17_acidbase.png Graphic file (type png)
 <use Pictures/17_acidbase.png>
 Package pdftex.def Info: Pictures/17_acidbase.png  used on input line 15.
 (pdftex.def)             Requested size: 358.50317pt x 183.561pt.
- [25 <./Pictures/17_acidbase.png>]
-<Pictures/17_bufcurve.png, id=409, 308.65312pt x 411.03563pt>
+ [26 <./Pictures/17_acidbase.png>]
+<Pictures/17_bufcurve.png, id=440, 308.65312pt x 411.03563pt>
 File: Pictures/17_bufcurve.png Graphic file (type png)
 <use Pictures/17_bufcurve.png>
 Package pdftex.def Info: Pictures/17_bufcurve.png  used on input line 92.
 (pdftex.def)             Requested size: 194.61935pt x 259.18587pt.
- [26 <./Pictures/17_bufcurve.png>]
-<Pictures/17_luis.png, id=416, 212.83514pt x 67.57245pt>
+ [27 <./Pictures/17_bufcurve.png>]
+<Pictures/17_luis.png, id=447, 212.83514pt x 67.57245pt>
 File: Pictures/17_luis.png Graphic file (type png)
 <use Pictures/17_luis.png>
 Package pdftex.def Info: Pictures/17_luis.png  used on input line 132.
 (pdftex.def)             Requested size: 212.83461pt x 67.57227pt.
-) [27 <./Pictures/17_luis.png (PNG copy)>] (./TeX_Files/18.tex) [28] (./TeX_Fil
-es/19.tex) [29] (./TeX_Files/20.tex)
-[30] (./TeX_Files/21.tex) [31] (./TeX_Files/22.tex) [32] (./TeX_Files/23.tex)
-[33] (./TeX_Files/24.tex) [34] (./TeX_Files/25.tex) [35] (./TeX_Files/26.tex)
+) [28 <./Pictures/17_luis.png (PNG copy)>] (./TeX_Files/18.tex) [29] (./TeX_Fil
+es/19.tex) [30] (./TeX_Files/20.tex)
+[31] (./TeX_Files/21.tex) [32] (./TeX_Files/22.tex) [33] (./TeX_Files/23.tex)
+[34] (./TeX_Files/24.tex) [35] (./TeX_Files/25.tex) [36] (./TeX_Files/26.tex)
 
 AED: lastpage setting LastPage
-[36] (./main.aux)
+[37] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8BF7DA33719204F2C214DA558C134F67;10794.
+(rerunfilecheck)             Checksum: 3122D05D4002D4862E71865AF32DC412;13928.
  ) 
 Here is how much of TeX's memory you used:
- 25211 strings out of 479916
- 441314 string characters out of 5886648
- 782995 words of memory out of 5000000
- 41055 multiletter control sequences out of 15000+600000
+ 25223 strings out of 479916
+ 441488 string characters out of 5886648
+ 786265 words of memory out of 5000000
+ 41059 multiletter control sequences out of 15000+600000
  550682 words of font info for 67 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 96i,16n,99p,1276b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,16n,99p,1739b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
 live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/ty
-pe1/public/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
-/cm-super/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
-sfrm0800.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
-fb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/tex
-live/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/texmf-dist
-/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (37 pages, 1413347 bytes).
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-di
+st/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/t
+ype1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
+c/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super
+/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.
+pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/te
+xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dis
+t/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (38 pages, 1437840 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
- 470 compressed objects within 5 object streams
- 105 named destinations out of 1000 (max. 500000)
- 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 503 compressed objects within 6 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 467 words of extra memory for PDF output out of 10000 (max. 10000000)
 
