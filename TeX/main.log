@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  20 OCT 2020 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  20 OCT 2020 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1061,7 +1061,15 @@ Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 
 Package cmap Warning: fontenc already loaded - some fonts may be unprocessed.
 
-) (c:/texlive/2020/texmf-dist/tex/latex/mhchem/mhchem.sty
+)
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\arrowsize=\dimen297
+)) (c:/texlive/2020/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2018/06/22 v4.08 for typesetting chemical formulae
 
 (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -1097,37 +1105,37 @@ Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use
 \mhchem@bondtmp@minussidebearingleft=\skip89
 \mhchem@bondtmp@minussidebearingright=\skip90
 \l__mhchem_option_version_int=\count324
-\mhchem@option@minusmathsidebearingleft=\dimen297
-\mhchem@option@minusmathsidebearingright=\dimen298
-\mhchem@option@minustextsidebearingleft=\dimen299
-\mhchem@option@minustextsidebearingright=\dimen300
+\mhchem@option@minusmathsidebearingleft=\dimen298
+\mhchem@option@minusmathsidebearingright=\dimen299
+\mhchem@option@minustextsidebearingleft=\dimen300
+\mhchem@option@minustextsidebearingright=\dimen301
 )
-Package hyperref Info: Option `unicode' set `true' on input line 151.
-Package hyperref Info: Option `colorlinks' set `true' on input line 151.
+Package hyperref Info: Option `unicode' set `true' on input line 152.
+Package hyperref Info: Option `colorlinks' set `true' on input line 152.
 
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1165,8 +1173,8 @@ LaTeX Font Info:    ... okay on input line 158.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 158.
-Package hyperref Info: Link coloring ON on input line 158.
+(lastpage)             ! on input line 159.
+Package hyperref Info: Link coloring ON on input line 159.
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1178,9 +1186,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 158.
-LaTeX Info: Redefining \pageref on input line 158.
-LaTeX Info: Redefining \nameref on input line 158.
+LaTeX Info: Redefining \ref on input line 159.
+LaTeX Info: Redefining \pageref on input line 159.
+LaTeX Info: Redefining \nameref on input line 159.
 
 (./main.out) (./main.out)
 \@outlinefile=\write4
@@ -1190,13 +1198,13 @@ LaTeX Info: Redefining \nameref on input line 158.
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count326
-\scratchdimen=\dimen301
+\scratchdimen=\dimen302
 \scratchbox=\box113
 \nofMPsegments=\count327
 \nofMParguments=\count328
 \everyMPshowfont=\toks53
 \MPscratchCnt=\count329
-\MPscratchDim=\dimen302
+\MPscratchDim=\dimen303
 \MPnumerator=\count330
 \makeMPintoPDFobject=\count331
 \everyMPtoPDFconversion=\toks54
@@ -1210,37 +1218,37 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 
-Package chemgreek Info: Activating mapping `default' on line 158.
+Package chemgreek Info: Activating mapping `default' on line 159.
 
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Trying to load font information for U+esint on input line 1
-61.
+62.
 
 (c:/texlive/2020/texmf-dist/tex/latex/esint/uesint.fd
 File: uesint.fd 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 161
+LaTeX Font Info:    Trying to load font information for U+msa on input line 162
 .
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 161
+LaTeX Font Info:    Trying to load font information for U+msb on input line 162
 .
 
 (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 16
-1.
+2.
 
 (c:/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )<<t2a.cmap>>
-<Pictures//HSElogo.pdf, id=213, 597.50786pt x 845.04686pt>
+<Pictures//HSElogo.pdf, id=237, 597.50786pt x 845.04686pt>
 File: Pictures//HSElogo.pdf Graphic file (type pdf)
 <use Pictures//HSElogo.pdf>
-Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 175.
+Package pdftex.def Info: Pictures//HSElogo.pdf  used on input line 176.
 (pdftex.def)             Requested size: 102.42836pt x 144.85524pt.
  [1
 
@@ -1264,34 +1272,40 @@ Overfull \hbox (0.97472pt too wide) in paragraph at lines 7--7
 тро-е-ние, со-став, свой-ство. Про- 
  []
 
+
+Overfull \hbox (5.73198pt too wide) in paragraph at lines 22--22
+ \T2A/cmr/bx/n/12 ской ре-ак-ции. Энер-ге-ти-че-ская кри-вая эле-мен-тар-ной хи
+-ми-че-ской ре-ак-ции. Пря- 
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.29 ...СЃС‚РІР° РјРµС‚Р°Р»Р»РѕРІ}{23}{section.12}
+l.29 ...ІР° СЂР°СЃС‚РІРѕСЂР°}{24}{subsection.11.2}
                                                   % [1])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
  [2] (./TeX_Files/1.tex) [3] (./TeX_Files/2.tex
-<Pictures/2_table.jpg, id=317, 803.0pt x 573.14125pt>
-File: Pictures/2_table.jpg Graphic file (type jpg)
-<use Pictures/2_table.jpg>
-Package pdftex.def Info: Pictures/2_table.jpg  used on input line 11.
+<Pictures//2_table.jpg, id=351, 803.0pt x 573.14125pt>
+File: Pictures//2_table.jpg Graphic file (type jpg)
+<use Pictures//2_table.jpg>
+Package pdftex.def Info: Pictures//2_table.jpg  used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 365.56729pt.
- [4 <./Pictures/2_table.jpg>]
-<Pictures/2_block.png, id=324, 800.0289pt x 530.9436pt>
-File: Pictures/2_block.png Graphic file (type png)
-<use Pictures/2_block.png>
-Package pdftex.def Info: Pictures/2_block.png  used on input line 55.
+ [4 <./Pictures//2_table.jpg>]
+<Pictures//2_block.png, id=358, 800.0289pt x 530.9436pt>
+File: Pictures//2_block.png Graphic file (type png)
+<use Pictures//2_block.png>
+Package pdftex.def Info: Pictures//2_block.png  used on input line 55.
 (pdftex.def)             Requested size: 358.50317pt x 237.92592pt.
- [5 <./Pictures/2_block.png>]
-<Pictures/2_properties.png, id=334, 933.4875pt x 539.1342pt>
-File: Pictures/2_properties.png Graphic file (type png)
-<use Pictures/2_properties.png>
-Package pdftex.def Info: Pictures/2_properties.png  used on input line 66.
+ [5 <./Pictures//2_block.png>]
+<Pictures//2_properties.png, id=367, 933.4875pt x 539.1342pt>
+File: Pictures//2_properties.png Graphic file (type png)
+<use Pictures//2_properties.png>
+Package pdftex.def Info: Pictures//2_properties.png  used on input line 66.
 (pdftex.def)             Requested size: 358.50317pt x 207.05315pt.
-) [6 <./Pictures/2_properties.png>] (./TeX_Files/3.tex
+) [6 <./Pictures//2_properties.png>] (./TeX_Files/3.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1301,7 +1315,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<Pictures/Benzol.jpg, id=342, 135.50626pt x 122.859pt>
+<Pictures/Benzol.jpg, id=375, 135.50626pt x 122.859pt>
 File: Pictures/Benzol.jpg Graphic file (type jpg)
 <use Pictures/Benzol.jpg>
 Package pdftex.def Info: Pictures/Benzol.jpg  used on input line 18.
@@ -1316,7 +1330,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-<Pictures/Val.jpg, id=343, 488.42474pt x 73.4745pt>
+<Pictures/Val.jpg, id=376, 488.42474pt x 73.4745pt>
 File: Pictures/Val.jpg Graphic file (type jpg)
 <use Pictures/Val.jpg>
 Package pdftex.def Info: Pictures/Val.jpg  used on input line 38.
@@ -1333,7 +1347,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
 ) [8 <./Pictures/Val.jpg>] (./TeX_Files/4.tex [9] [10]) [11] (./TeX_Files/5.tex
 ) [12] (./TeX_Files/6.tex
-<Pictures/6_atom.png, id=375, 1330.9725pt x 791.95876pt>
+<Pictures/6_atom.png, id=408, 1330.9725pt x 791.95876pt>
 File: Pictures/6_atom.png Graphic file (type png)
 <use Pictures/6_atom.png>
 Package pdftex.def Info: Pictures/6_atom.png  used on input line 53.
@@ -1352,59 +1366,78 @@ Overfull \hbox (2.11345pt too wide) in paragraph at lines 13--14
  []
 
 [15]
-<Pictures//7.example.png, id=390, 359.09157pt x 228.10219pt>
+<Pictures//7.example.png, id=423, 359.09157pt x 228.10219pt>
 File: Pictures//7.example.png Graphic file (type png)
 <use Pictures//7.example.png>
 Package pdftex.def Info: Pictures//7.example.png  used on input line 64.
 (pdftex.def)             Requested size: 358.50317pt x 227.7431pt.
  [16]) [17 <./Pictures//7.example.png>] (./TeX_Files/8.tex) [18]
-(./TeX_Files/9.tex) [19] (./TeX_Files/10.tex) [20] (./TeX_Files/11.tex [21])
-[22] (./TeX_Files/12.tex
-<Pictures/12_metalrow.png, id=437, 426.09187pt x 216.05719pt>
+(./TeX_Files/9.tex
+Overfull \hbox (0.63992pt too wide) in paragraph at lines 1--1
+[]\T2A/cmr/bx/n/17.28 Классификация хи-ми-че-ских ре-ак-ций. Сте-хио-мет-ри-че-
+ское
+ []
+
+
+Overfull \hbox (10.81586pt too wide) in paragraph at lines 1--1
+\T2A/cmr/bx/n/17.28 опи-са-ние хи-ми-че-ской ре-ак-ции. Энер-ге-ти-че-ская кри-
+вая эле-
+ []
+
+
+Overfull \hbox (7.10555pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/bx/n/12 Химическая ре-ак-ция \T2A/cmr/m/n/12 -- пре-вра-ще-ние од-но
+-го или несколь-ких ис-ход-ных ве-ществ (\T2A/cmr/bx/n/12 реагентов\T2A/cmr/m/n
+/12 )
+ []
+
+[19] [20] [21]) [22] (./TeX_Files/10.tex) [23] (./TeX_Files/11.tex [24])
+[25] (./TeX_Files/12.tex
+<Pictures/12_metalrow.png, id=503, 426.09187pt x 216.05719pt>
 File: Pictures/12_metalrow.png Graphic file (type png)
 <use Pictures/12_metalrow.png>
 Package pdftex.def Info: Pictures/12_metalrow.png  used on input line 24.
 (pdftex.def)             Requested size: 512.14963pt x 259.70906pt.
- [23 <./Pictures/12_metalrow.png>]) [24]
-(./TeX_Files/13.tex) [25] (./TeX_Files/14.tex) [26] (./TeX_Files/15.tex)
-[27] (./TeX_Files/16.tex) [28] (./TeX_Files/17.tex
-<Pictures/17_acidbase.png, id=466, 1293.83376pt x 662.475pt>
+ [26 <./Pictures/12_metalrow.png>]) [27]
+(./TeX_Files/13.tex) [28] (./TeX_Files/14.tex) [29] (./TeX_Files/15.tex)
+[30] (./TeX_Files/16.tex) [31] (./TeX_Files/17.tex
+<Pictures/17_acidbase.png, id=535, 1293.83376pt x 662.475pt>
 File: Pictures/17_acidbase.png Graphic file (type png)
 <use Pictures/17_acidbase.png>
 Package pdftex.def Info: Pictures/17_acidbase.png  used on input line 15.
 (pdftex.def)             Requested size: 358.50317pt x 183.561pt.
- [29 <./Pictures/17_acidbase.png>]
-<Pictures/17_bufcurve.png, id=473, 308.65312pt x 411.03563pt>
+ [32 <./Pictures/17_acidbase.png>]
+<Pictures/17_bufcurve.png, id=542, 308.65312pt x 411.03563pt>
 File: Pictures/17_bufcurve.png Graphic file (type png)
 <use Pictures/17_bufcurve.png>
 Package pdftex.def Info: Pictures/17_bufcurve.png  used on input line 92.
 (pdftex.def)             Requested size: 194.61935pt x 259.18587pt.
- [30 <./Pictures/17_bufcurve.png>]
-<Pictures/17_luis.png, id=481, 212.83514pt x 67.57245pt>
-File: Pictures/17_luis.png Graphic file (type png)
-<use Pictures/17_luis.png>
-Package pdftex.def Info: Pictures/17_luis.png  used on input line 132.
+ [33 <./Pictures/17_bufcurve.png>]
+<Pictures//17_luis.png, id=549, 212.83514pt x 67.57245pt>
+File: Pictures//17_luis.png Graphic file (type png)
+<use Pictures//17_luis.png>
+Package pdftex.def Info: Pictures//17_luis.png  used on input line 132.
 (pdftex.def)             Requested size: 212.83461pt x 67.57227pt.
-) [31 <./Pictures/17_luis.png (PNG copy)>] (./TeX_Files/18.tex) [32] (./TeX_Fil
-es/19.tex) [33] (./TeX_Files/20.tex)
-[34] (./TeX_Files/21.tex) [35] (./TeX_Files/22.tex) [36] (./TeX_Files/23.tex)
-[37] (./TeX_Files/24.tex) [38] (./TeX_Files/25.tex) [39] (./TeX_Files/26.tex)
-
+) [34 <./Pictures//17_luis.png (PNG copy)>] (./TeX_Files/18.tex) [35] (./TeX_Fi
+les/19.tex) [36] (./TeX_Files/20.tex)
+[37] (./TeX_Files/21.tex) [38] (./TeX_Files/22.tex [39]) [40]
+(./TeX_Files/23.tex) [41] (./TeX_Files/24.tex) [42] (./TeX_Files/25.tex)
+[43] (./TeX_Files/26.tex) 
 AED: lastpage setting LastPage
-[40] (./main.aux)
+[44] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F2AC4A889335D547BD2E5A5D457EACF7;18808.
+(rerunfilecheck)             Checksum: 538AB995355AD4787C77AC76408C3452;22652.
  ) 
 Here is how much of TeX's memory you used:
- 25250 strings out of 479916
- 441899 string characters out of 5886648
- 788050 words of memory out of 5000000
- 41076 multiletter control sequences out of 15000+600000
- 550682 words of font info for 67 fonts, out of 8000000 for 9000
+ 26288 strings out of 479916
+ 466699 string characters out of 5886648
+ 800050 words of memory out of 5000000
+ 42047 multiletter control sequences out of 15000+600000
+ 555308 words of font info for 84 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 96i,16n,99p,1739b,628s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
-live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<c:/texlive/2020
+ 96i,16n,99p,1739b,775s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{c:/tex
+live/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publ
@@ -1413,19 +1446,22 @@ s/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
 pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/202
 0/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-di
-st/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/t
-ype1/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/publi
-c/cm-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super
-/sfbx2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.
-pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/te
-xlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/cm-super/sfrm2074.pfb><c:/texlive/2020/texmf-dist/fonts/ty
-pe1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (41 pages, 1501676 bytes).
+st/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2020/texmf-dist/f
+onts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2020/texmf-dist/fonts/type1
+/public/cm-super/sfbx1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm
+-super/sfbx1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfb
+x2488.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb>
+<c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texliv
+e/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2020/tex
+mf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2020/texmf-dist/fo
+nts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/
+public/cm-super/sfrm1728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-
+super/sfrm2074.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti
+1200.pfb>
+Output written on main.pdf (45 pages, 1551416 bytes).
 PDF statistics:
- 623 PDF objects out of 1000 (max. 8388607)
- 533 compressed objects within 6 object streams
- 121 named destinations out of 1000 (max. 500000)
- 493 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 724 PDF objects out of 1000 (max. 8388607)
+ 626 compressed objects within 7 object streams
+ 160 named destinations out of 1000 (max. 500000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
