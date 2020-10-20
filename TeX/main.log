@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  20 OCT 2020 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.9)  20 OCT 2020 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1289,20 +1289,20 @@ l.27 ...»СЊРЅС‹С… РІРµС‰РµСЃС‚РІ.}{27}{section.11}
 
  [3]
 (./TeX_Files/1.tex) [4] (./TeX_Files/2.tex
-<Pictures//2_table.jpg, id=400, 803.0pt x 573.14125pt>
+<Pictures//2_table.jpg, id=403, 803.0pt x 573.14125pt>
 File: Pictures//2_table.jpg Graphic file (type jpg)
 <use Pictures//2_table.jpg>
 Package pdftex.def Info: Pictures//2_table.jpg  used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 365.56729pt.
  [5 <./Pictures//2_table.jpg>]
-<Pictures//2_block.png, id=407, 800.0289pt x 530.9436pt>
+<Pictures//2_block.png, id=410, 800.0289pt x 530.9436pt>
 File: Pictures//2_block.png Graphic file (type png)
 <use Pictures//2_block.png>
 Package pdftex.def Info: Pictures//2_block.png  used on input line 55.
 (pdftex.def)             Requested size: 358.50317pt x 237.92592pt.
 
 [6 <./Pictures//2_block.png>]
-<Pictures//2_properties.png, id=417, 933.4875pt x 539.1342pt>
+<Pictures//2_properties.png, id=420, 933.4875pt x 539.1342pt>
 File: Pictures//2_properties.png Graphic file (type png)
 <use Pictures//2_properties.png>
 Package pdftex.def Info: Pictures//2_properties.png  used on input line 66.
@@ -1318,7 +1318,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<Pictures/Benzol.jpg, id=424, 135.50626pt x 122.859pt>
+<Pictures/Benzol.jpg, id=427, 135.50626pt x 122.859pt>
 File: Pictures/Benzol.jpg Graphic file (type jpg)
 <use Pictures/Benzol.jpg>
 Package pdftex.def Info: Pictures/Benzol.jpg  used on input line 18.
@@ -1333,7 +1333,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-<Pictures/Val.jpg, id=425, 488.42474pt x 73.4745pt>
+<Pictures/Val.jpg, id=428, 488.42474pt x 73.4745pt>
 File: Pictures/Val.jpg Graphic file (type jpg)
 <use Pictures/Val.jpg>
 Package pdftex.def Info: Pictures/Val.jpg  used on input line 38.
@@ -1350,7 +1350,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
 ) [9 <./Pictures/Val.jpg>] (./TeX_Files/4.tex [10] [11]) [12]
 (./TeX_Files/5.tex) [13] (./TeX_Files/6.tex
-<Pictures/6_atom.png, id=457, 1330.9725pt x 791.95876pt>
+<Pictures/6_atom.png, id=460, 1330.9725pt x 791.95876pt>
 File: Pictures/6_atom.png Graphic file (type png)
 <use Pictures/6_atom.png>
 Package pdftex.def Info: Pictures/6_atom.png  used on input line 53.
@@ -1368,7 +1368,7 @@ Overfull \hbox (2.11345pt too wide) in paragraph at lines 13--14
  []
 
 [16]
-<Pictures//7.example.png, id=473, 359.09157pt x 228.10219pt>
+<Pictures//7.example.png, id=476, 359.09157pt x 228.10219pt>
 File: Pictures//7.example.png Graphic file (type png)
 <use Pictures//7.example.png>
 Package pdftex.def Info: Pictures//7.example.png  used on input line 64.
@@ -1405,7 +1405,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-<Pictures/Vodorod.jpg, id=495, 579.1236pt x 261.6174pt>
+<Pictures/Vodorod.jpg, id=498, 579.1236pt x 261.6174pt>
 File: Pictures/Vodorod.jpg Graphic file (type jpg)
 <use Pictures/Vodorod.jpg>
 Package pdftex.def Info: Pictures/Vodorod.jpg  used on input line 30.
@@ -1425,7 +1425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-<Pictures/Temp.jpg, id=501, 404.10976pt x 274.626pt>
+<Pictures/Temp.jpg, id=504, 404.10976pt x 274.626pt>
 File: Pictures/Temp.jpg Graphic file (type jpg)
 <use Pictures/Temp.jpg>
 Package pdftex.def Info: Pictures/Temp.jpg  used on input line 42.
@@ -1435,7 +1435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-<Pictures/Led.png, id=507, 583.9416pt x 362.3136pt>
+<Pictures/Led.png, id=510, 583.9416pt x 362.3136pt>
 File: Pictures/Led.png Graphic file (type png)
 <use Pictures/Led.png>
 Package pdftex.def Info: Pictures/Led.png  used on input line 52.
@@ -1461,7 +1461,7 @@ Overfull \hbox (7.10555pt too wide) in paragraph at lines 3--4
 
 [22] [23] [24]) [25] (./TeX_Files/10.tex) [26] (./TeX_Files/11.tex [27])
 [28] (./TeX_Files/12.tex
-<Pictures/12_metalrow.png, id=568, 426.09187pt x 216.05719pt>
+<Pictures/12_metalrow.png, id=572, 426.09187pt x 216.05719pt>
 File: Pictures/12_metalrow.png Graphic file (type png)
 <use Pictures/12_metalrow.png>
 Package pdftex.def Info: Pictures/12_metalrow.png  used on input line 24.
@@ -1487,32 +1487,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-) [32] (./TeX_Files/14.tex) [33] (./TeX_Files/15.tex) [34] (./TeX_Files/16.tex
-[35]
-<Pictures//16.colors.png, id=610, 350.05782pt x 167.87718pt>
+) [32] (./TeX_Files/14.tex) [33] (./TeX_Files/15.tex
+Overfull \hbox (3.40399pt too wide) in paragraph at lines 1--1
+\T2A/cmr/bx/n/17.28 лот-но-сти и ос-нов-но-сти. Сту-пен-ча-тая дис-со-ци-а-ция 
+на при-
+ []
+
+) [34] [35] (./TeX_Files/16.tex [36]
+<Pictures//16.colors.png, id=620, 350.05782pt x 167.87718pt>
 File: Pictures//16.colors.png Graphic file (type png)
 <use Pictures//16.colors.png>
 Package pdftex.def Info: Pictures//16.colors.png  used on input line 69.
 (pdftex.def)             Requested size: 350.05695pt x 167.87677pt.
- [36 <./Pictures//16.colors.png>]) [37] (./TeX_Files/17.tex
-<Pictures/17_acidbase.png, id=626, 1293.83376pt x 662.475pt>
+ [37 <./Pictures//16.colors.png>]) [38]
+(./TeX_Files/17.tex
+<Pictures/17_acidbase.png, id=635, 1293.83376pt x 662.475pt>
 File: Pictures/17_acidbase.png Graphic file (type png)
 <use Pictures/17_acidbase.png>
 Package pdftex.def Info: Pictures/17_acidbase.png  used on input line 15.
 (pdftex.def)             Requested size: 358.50317pt x 183.561pt.
- [38 <./Pictures/17_acidbase.png>]
-<Pictures/17_bufcurve.png, id=633, 308.65312pt x 411.03563pt>
+ [39 <./Pictures/17_acidbase.png>]
+<Pictures/17_bufcurve.png, id=642, 308.65312pt x 411.03563pt>
 File: Pictures/17_bufcurve.png Graphic file (type png)
 <use Pictures/17_bufcurve.png>
 Package pdftex.def Info: Pictures/17_bufcurve.png  used on input line 92.
 (pdftex.def)             Requested size: 194.61935pt x 259.18587pt.
- [39 <./Pictures/17_bufcurve.png>]
-<Pictures//17_luis.png, id=640, 212.83514pt x 67.57245pt>
+ [40 <./Pictures/17_bufcurve.png>]
+<Pictures//17_luis.png, id=649, 212.83514pt x 67.57245pt>
 File: Pictures//17_luis.png Graphic file (type png)
 <use Pictures//17_luis.png>
 Package pdftex.def Info: Pictures//17_luis.png  used on input line 132.
 (pdftex.def)             Requested size: 212.83461pt x 67.57227pt.
-) [40 <./Pictures//17_luis.png (PNG copy)>] (./TeX_Files/18.tex
+) [41 <./Pictures//17_luis.png (PNG copy)>] (./TeX_Files/18.tex
 Overfull \hbox (48.21921pt too wide) in paragraph at lines 2--2
 \T2A/cmr/bx/n/17.28 но-ви-те-ли и окис-ли-те-ли. Со-став-ле-ние урав-не-ний оки
 слительно-
@@ -1539,22 +1545,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<Pictures/Il1.jpg, id=649, 631.158pt x 440.24475pt>
+<Pictures/Il1.jpg, id=658, 631.158pt x 440.24475pt>
 File: Pictures/Il1.jpg Graphic file (type jpg)
 <use Pictures/Il1.jpg>
 Package pdftex.def Info: Pictures/Il1.jpg  used on input line 14.
 (pdftex.def)             Requested size: 512.14963pt x 357.24791pt.
-<Pictures/Il2.jpg, id=650, 582.978pt x 428.802pt>
+<Pictures/Il2.jpg, id=659, 582.978pt x 428.802pt>
 File: Pictures/Il2.jpg Graphic file (type jpg)
 <use Pictures/Il2.jpg>
 Package pdftex.def Info: Pictures/Il2.jpg  used on input line 23.
 (pdftex.def)             Requested size: 358.50317pt x 263.6953pt.
-<Pictures/Il3.jpg, id=651, 572.73975pt x 419.166pt>
+<Pictures/Il3.jpg, id=660, 572.73975pt x 419.166pt>
 File: Pictures/Il3.jpg Graphic file (type jpg)
 <use Pictures/Il3.jpg>
 Package pdftex.def Info: Pictures/Il3.jpg  used on input line 28.
 (pdftex.def)             Requested size: 358.50317pt x 262.38104pt.
-[41 <./Pictures/Il1.jpg>] [42 <./Pictures/Il2.jpg> <./Pictures/Il3.jpg>]
+[42 <./Pictures/Il1.jpg>] [43 <./Pictures/Il2.jpg> <./Pictures/Il3.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -1564,42 +1570,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-<Pictures/El1.jpg, id=665, 626.94225pt x 436.029pt>
+<Pictures/El1.jpg, id=674, 626.94225pt x 436.029pt>
 File: Pictures/El1.jpg Graphic file (type jpg)
 <use Pictures/El1.jpg>
 Package pdftex.def Info: Pictures/El1.jpg  used on input line 55.
 (pdftex.def)             Requested size: 512.14963pt x 356.18881pt.
-<Pictures/El2.jpg, id=666, 616.10175pt x 432.4155pt>
+<Pictures/El2.jpg, id=675, 616.10175pt x 432.4155pt>
 File: Pictures/El2.jpg Graphic file (type jpg)
 <use Pictures/El2.jpg>
 Package pdftex.def Info: Pictures/El2.jpg  used on input line 60.
 (pdftex.def)             Requested size: 512.14963pt x 359.47221pt.
-<Pictures/El3.jpg, id=667, 777.50475pt x 290.88675pt>
+<Pictures/El3.jpg, id=676, 777.50475pt x 290.88675pt>
 File: Pictures/El3.jpg Graphic file (type jpg)
 <use Pictures/El3.jpg>
 Package pdftex.def Info: Pictures/El3.jpg  used on input line 65.
 (pdftex.def)             Requested size: 512.14963pt x 191.60857pt.
-[43 <./Pictures/El1.jpg>]) [44 <./Pictures/El2.jpg> <./Pictures/El3.jpg>]
-(./TeX_Files/19.tex) [45] (./TeX_Files/20.tex) [46] (./TeX_Files/21.tex
-<Pictures//21.mendel.png, id=688, 583.42969pt x 286.06876pt>
+[44 <./Pictures/El1.jpg>]) [45 <./Pictures/El2.jpg> <./Pictures/El3.jpg>]
+(./TeX_Files/19.tex) [46] (./TeX_Files/20.tex) [47] (./TeX_Files/21.tex
+<Pictures//21.mendel.png, id=697, 583.42969pt x 286.06876pt>
 File: Pictures//21.mendel.png Graphic file (type png)
 <use Pictures//21.mendel.png>
 Package pdftex.def Info: Pictures//21.mendel.png  used on input line 9.
 (pdftex.def)             Requested size: 358.50317pt x 175.785pt.
-<Pictures//21.electric.png, id=689, 207.77625pt x 69.25874pt>
+<Pictures//21.electric.png, id=698, 207.77625pt x 69.25874pt>
 File: Pictures//21.electric.png Graphic file (type png)
 <use Pictures//21.electric.png>
 Package pdftex.def Info: Pictures//21.electric.png  used on input line 18.
 (pdftex.def)             Requested size: 358.50317pt x 119.51582pt.
-<Pictures//21.p.png, id=691, 699.36281pt x 459.96844pt>
+<Pictures//21.p.png, id=700, 699.36281pt x 459.96844pt>
 File: Pictures//21.p.png Graphic file (type png)
 <use Pictures//21.p.png>
 Package pdftex.def Info: Pictures//21.p.png  used on input line 30.
 (pdftex.def)             Requested size: 358.50317pt x 235.78798pt.
 
-[47 <./Pictures//21.mendel.png> <./Pictures//21.electric.png>] [48 <./Pictures/
-/21.p.png>]) [49] (./TeX_Files/22.tex [50]) [51] (./TeX_Files/23.tex) [52]
-(./TeX_Files/24.tex) [53] (./TeX_Files/25.tex) [54] (./TeX_Files/26.tex
+[48 <./Pictures//21.mendel.png> <./Pictures//21.electric.png>] [49 <./Pictures/
+/21.p.png>]) [50] (./TeX_Files/22.tex [51]) [52] (./TeX_Files/23.tex) [53]
+(./TeX_Files/24.tex) [54] (./TeX_Files/25.tex) [55] (./TeX_Files/26.tex
 Overfull \hbox (12.75514pt too wide) in paragraph at lines 1--1
 []\T2A/cmr/bx/n/17.28 Понятие ком-плекс-но-го со-еди-не-ния. Ко-ор-ди-на-ци-он-
 ная тео-
@@ -1607,14 +1613,14 @@ Overfull \hbox (12.75514pt too wide) in paragraph at lines 1--1
 
 ) 
 AED: lastpage setting LastPage
-[55] (./main.aux)
+[56] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 520858989C4D512870EDD2DEE81A779B;31599.
+(rerunfilecheck)             Checksum: 65B0F86A9EC790F2799E48EF4D0F6B2B;33932.
  ) 
 Here is how much of TeX's memory you used:
- 26441 strings out of 479916
- 469134 string characters out of 5886648
- 807199 words of memory out of 5000000
+ 26444 strings out of 479916
+ 469169 string characters out of 5886648
+ 809165 words of memory out of 5000000
  42136 multiletter control sequences out of 15000+600000
  557946 words of font info for 87 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1643,10 +1649,10 @@ uper/sfrm1440.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1
 728.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb><c
 :/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/texlive/
 2020/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (56 pages, 4125947 bytes).
+Output written on main.pdf (57 pages, 4137320 bytes).
 PDF statistics:
- 883 PDF objects out of 1000 (max. 8388607)
- 756 compressed objects within 8 object streams
- 205 named destinations out of 1000 (max. 500000)
+ 892 PDF objects out of 1000 (max. 8388607)
+ 764 compressed objects within 8 object streams
+ 208 named destinations out of 1000 (max. 500000)
  662 words of extra memory for PDF output out of 10000 (max. 10000000)
 
