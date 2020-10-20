@@ -4,46 +4,48 @@
 \contentsline {subsection}{\numberline {2.1.\relax }Периодическая таблица}{4}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2.\relax }Структура}{4}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3.\relax }Металлы и неметаллы}{5}{subsection.2.3}%
-\contentsline {section}{\numberline {3.\relax }}{7}{section.3}%
-\contentsline {section}{\numberline {4.\relax }}{8}{section.4}%
-\contentsline {section}{\numberline {5.\relax }}{9}{section.5}%
-\contentsline {section}{\numberline {6.\relax }Квантовые числа электрона. Принципы заполнения орбиталей. Электронная формула атома и иона. Диаграмма энергетических уровней атома.}{10}{section.6}%
-\contentsline {subsection}{\numberline {6.1.\relax }Квантовые числа}{10}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2.\relax }Принципы заполнения орбиталей}{10}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3.\relax }Электронная формула атома и иона}{10}{subsection.6.3}%
-\contentsline {section}{\numberline {7.\relax }Образование химической связи между атомами. Ковалентная связь. Валентность. Правило октета. Формальный заряд и степень окисления элемента в соединении.}{12}{section.7}%
-\contentsline {subsection}{\numberline {7.1.\relax }Ковалентная связь}{12}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2.\relax }Валентность}{12}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3.\relax }Степень окисления элемента}{12}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4.\relax }Формальный заряд}{13}{subsection.7.4}%
-\contentsline {section}{\numberline {8.\relax }}{15}{section.8}%
-\contentsline {section}{\numberline {9.\relax }}{16}{section.9}%
-\contentsline {section}{\numberline {10.\relax }}{17}{section.10}%
-\contentsline {section}{\numberline {11.\relax }Растворы, их классификация. Способы выражения состава раствора – мольная и массовая доли, молярная концентрация. Полярные и неполярные растворители. Отличие свойств растворов от свойств индивидуальных веществ.}{18}{section.11}%
-\contentsline {subsection}{\numberline {11.1.\relax }Растворы и их классификация}{18}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2.\relax }Способы выражения состава раствора}{18}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3.\relax }Полярные и неполярные растворители}{19}{subsection.11.3}%
-\contentsline {subsection}{\numberline {11.4.\relax }Отличия свойств растворов от свойств индивидуальных веществ}{19}{subsection.11.4}%
-\contentsline {section}{\numberline {12.\relax }Положение металлов в Периодической системе. Общие физические и химические свойства металлов}{20}{section.12}%
-\contentsline {subsection}{\numberline {12.1.\relax }Общие свойства}{20}{subsection.12.1}%
-\contentsline {section}{\numberline {13.\relax }}{22}{section.13}%
-\contentsline {section}{\numberline {14.\relax }}{23}{section.14}%
-\contentsline {section}{\numberline {15.\relax }}{24}{section.15}%
-\contentsline {section}{\numberline {16.\relax }}{25}{section.16}%
-\contentsline {section}{\numberline {17.\relax }Гидролиз солей. Буферные растворы. Кислоты и основания по Льюису}{26}{section.17}%
-\contentsline {subsection}{\numberline {17.1.\relax }Механизм гидролиза солей}{26}{subsection.17.1}%
-\contentsline {subsubsection}{\numberline {17.1.1.\relax }Слабое основание + сильная кислота}{26}{subsubsection.17.1.1}%
-\contentsline {subsubsection}{\numberline {17.1.2.\relax }Сильное основание + слабая кислота}{27}{subsubsection.17.1.2}%
-\contentsline {subsubsection}{\numberline {17.1.3.\relax }Слабое основание + слабая кислота}{27}{subsubsection.17.1.3}%
-\contentsline {subsubsection}{\numberline {17.1.4.\relax }Сильное основание + сильная кислота}{27}{subsubsection.17.1.4}%
-\contentsline {subsection}{\numberline {17.2.\relax }Буферные растворы}{27}{subsection.17.2}%
-\contentsline {subsection}{\numberline {17.3.\relax }Кислоты и основания по Льюису}{28}{subsection.17.3}%
-\contentsline {section}{\numberline {18.\relax }}{29}{section.18}%
-\contentsline {section}{\numberline {19.\relax }}{30}{section.19}%
-\contentsline {section}{\numberline {20.\relax }}{31}{section.20}%
-\contentsline {section}{\numberline {21.\relax }}{32}{section.21}%
-\contentsline {section}{\numberline {22.\relax }}{33}{section.22}%
-\contentsline {section}{\numberline {23.\relax }}{34}{section.23}%
-\contentsline {section}{\numberline {24.\relax }}{35}{section.24}%
-\contentsline {section}{\numberline {25.\relax }}{36}{section.25}%
-\contentsline {section}{\numberline {26.\relax }}{37}{section.26}%
+\contentsline {section}{\numberline {3.\relax }Химические соединения и их характеристики: строение, состав, свойство. Простые и сложные соединения. Стехиометрические соотношения, эмпирическая и молекулярная формула соединения. Валентность элементов.}{7}{section.3}%
+\contentsline {section}{\numberline {4.\relax }Аллотропные и полиморфные модификации. Основные классы неорганических соединений: оксиды, кислоты, основания, соли, бинарные соединения.}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1.\relax }Аллотропные и полиморфные модификации.}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2.\relax }Основные классы неорганических соединени.}{10}{subsection.4.2}%
+\contentsline {section}{\numberline {5.\relax }}{12}{section.5}%
+\contentsline {section}{\numberline {6.\relax }Квантовые числа электрона. Принципы заполнения орбиталей. Электронная формула атома и иона. Диаграмма энергетических уровней атома.}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1.\relax }Квантовые числа}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2.\relax }Принципы заполнения орбиталей}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3.\relax }Электронная формула атома и иона}{13}{subsection.6.3}%
+\contentsline {section}{\numberline {7.\relax }Образование химической связи между атомами. Ковалентная связь. Валентность. Правило октета. Формальный заряд и степень окисления элемента в соединении.}{15}{section.7}%
+\contentsline {subsection}{\numberline {7.1.\relax }Ковалентная связь}{15}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2.\relax }Валентность}{15}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3.\relax }Степень окисления элемента}{15}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4.\relax }Формальный заряд}{16}{subsection.7.4}%
+\contentsline {section}{\numberline {8.\relax }}{18}{section.8}%
+\contentsline {section}{\numberline {9.\relax }}{19}{section.9}%
+\contentsline {section}{\numberline {10.\relax }}{20}{section.10}%
+\contentsline {section}{\numberline {11.\relax }Растворы, их классификация. Способы выражения состава раствора – мольная и массовая доли, молярная концентрация. Полярные и неполярные растворители. Отличие свойств растворов от свойств индивидуальных веществ.}{21}{section.11}%
+\contentsline {subsection}{\numberline {11.1.\relax }Растворы и их классификация}{21}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2.\relax }Способы выражения состава раствора}{21}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3.\relax }Полярные и неполярные растворители}{22}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4.\relax }Отличия свойств растворов от свойств индивидуальных веществ}{22}{subsection.11.4}%
+\contentsline {section}{\numberline {12.\relax }Положение металлов в Периодической системе. Общие физические и химические свойства металлов}{23}{section.12}%
+\contentsline {subsection}{\numberline {12.1.\relax }Общие свойства}{23}{subsection.12.1}%
+\contentsline {section}{\numberline {13.\relax }}{25}{section.13}%
+\contentsline {section}{\numberline {14.\relax }}{26}{section.14}%
+\contentsline {section}{\numberline {15.\relax }}{27}{section.15}%
+\contentsline {section}{\numberline {16.\relax }Кислотность по Бренстеду, сопряженные кислоты и основания. Вода как кислота и основание. Автоионизация воды, ион гидроксония. pH растворов. Расчет pH растворов слабых кислот и оснований.}{28}{section.16}%
+\contentsline {section}{\numberline {17.\relax }Гидролиз солей. Буферные растворы. Кислоты и основания по Льюису}{29}{section.17}%
+\contentsline {subsection}{\numberline {17.1.\relax }Механизм гидролиза солей}{29}{subsection.17.1}%
+\contentsline {subsubsection}{\numberline {17.1.1.\relax }Слабое основание + сильная кислота}{29}{subsubsection.17.1.1}%
+\contentsline {subsubsection}{\numberline {17.1.2.\relax }Сильное основание + слабая кислота}{30}{subsubsection.17.1.2}%
+\contentsline {subsubsection}{\numberline {17.1.3.\relax }Слабое основание + слабая кислота}{30}{subsubsection.17.1.3}%
+\contentsline {subsubsection}{\numberline {17.1.4.\relax }Сильное основание + сильная кислота}{30}{subsubsection.17.1.4}%
+\contentsline {subsection}{\numberline {17.2.\relax }Буферные растворы}{30}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3.\relax }Кислоты и основания по Льюису}{31}{subsection.17.3}%
+\contentsline {section}{\numberline {18.\relax }}{32}{section.18}%
+\contentsline {section}{\numberline {19.\relax }}{33}{section.19}%
+\contentsline {section}{\numberline {20.\relax }}{34}{section.20}%
+\contentsline {section}{\numberline {21.\relax }}{35}{section.21}%
+\contentsline {section}{\numberline {22.\relax }}{36}{section.22}%
+\contentsline {section}{\numberline {23.\relax }}{37}{section.23}%
+\contentsline {section}{\numberline {24.\relax }}{38}{section.24}%
+\contentsline {section}{\numberline {25.\relax }}{39}{section.25}%
+\contentsline {section}{\numberline {26.\relax }}{40}{section.26}%
