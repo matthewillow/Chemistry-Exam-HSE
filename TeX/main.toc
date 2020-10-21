@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {4.\relax }Аллотропные и полиморфные модификации. Основные классы неорганических соединений: оксиды, кислоты, основания, соли, бинарные соединения.}{10}{section.4}%
 \contentsline {subsection}{\numberline {4.1.\relax }Аллотропные и полиморфные модификации.}{10}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2.\relax }Основные классы неорганических соединени.}{11}{subsection.4.2}%
-\contentsline {section}{\numberline {5.\relax }}{13}{section.5}%
+\contentsline {section}{\numberline {5.\relax }Формальная запись и механизм реакции. Энергетическая кривая химической реакции. Элементарный акт химической реакции. Энергия активации. Тепловой эффект реакции. }{13}{section.5}%
 \contentsline {section}{\numberline {6.\relax }Квантовые числа электрона. Принципы заполнения орбиталей. Электронная формула атома и иона. Диаграмма энергетических уровней атома.}{14}{section.6}%
 \contentsline {subsection}{\numberline {6.1.\relax }Квантовые числа}{14}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2.\relax }Принципы заполнения орбиталей}{14}{subsection.6.2}%
@@ -34,33 +34,49 @@
 \contentsline {section}{\numberline {13.\relax }Электролитическая диссоциация, электролиты и неэлектролиты. Сильные и слабые электролиты. Степень диссоциации, константа диссоциации. Диссоциация кислот, оснований и солей.}{31}{section.13}%
 \contentsline {subsection}{\numberline {13.1.\relax }Диссоциация кислот и оснований}{32}{subsection.13.1}%
 \contentsline {subsection}{\numberline {13.2.\relax }Диссоциация солей}{32}{subsection.13.2}%
-\contentsline {section}{\numberline {14.\relax }}{33}{section.14}%
-\contentsline {section}{\numberline {15.\relax }Кислоты и основания по Аррениусу. Ион гидроксония. Сильные и слабые кислоты и основания. Константы кислотности и основности. Ступенчатая диссоциация на примере фосфорной кислоты.}{34}{section.15}%
-\contentsline {section}{\numberline {16.\relax }Кислотность по Бренстеду, сопряженные кислоты и основания. Вода как кислота и основание. Автоионизация воды, ион гидроксония. pH растворов. Расчет pH растворов слабых кислот и оснований.}{36}{section.16}%
-\contentsline {subsection}{\numberline {16.1.\relax }Кислотность по Бренстеду}{36}{subsection.16.1}%
-\contentsline {subsection}{\numberline {16.2.\relax }pH растворов}{37}{subsection.16.2}%
-\contentsline {section}{\numberline {17.\relax }Гидролиз солей. Буферные растворы. Кислоты и основания по Льюису}{39}{section.17}%
-\contentsline {subsection}{\numberline {17.1.\relax }Механизм гидролиза солей}{39}{subsection.17.1}%
-\contentsline {subsubsection}{\numberline {17.1.1.\relax }Слабое основание + сильная кислота}{39}{subsubsection.17.1.1}%
-\contentsline {subsubsection}{\numberline {17.1.2.\relax }Сильное основание + слабая кислота}{40}{subsubsection.17.1.2}%
-\contentsline {subsubsection}{\numberline {17.1.3.\relax }Слабое основание + слабая кислота}{40}{subsubsection.17.1.3}%
-\contentsline {subsubsection}{\numberline {17.1.4.\relax }Сильное основание + сильная кислота}{40}{subsubsection.17.1.4}%
-\contentsline {subsection}{\numberline {17.2.\relax }Буферные растворы}{40}{subsection.17.2}%
-\contentsline {subsection}{\numberline {17.3.\relax }Кислоты и основания по Льюису}{41}{subsection.17.3}%
-\contentsline {section}{\numberline {18.\relax }Понятия окисления и восстановления. Типичные восстановители и окислители. Составление уравнений окислительно-восстановительных реакций: методы электронного и электронно-ионного баланса.}{42}{section.18}%
-\contentsline {subsection}{\numberline {18.1.\relax }Типичные окислители и восстановители}{43}{subsection.18.1}%
-\contentsline {subsection}{\numberline {18.2.\relax }Методы электронного и электронно-ионного баланса}{43}{subsection.18.2}%
-\contentsline {section}{\numberline {19.\relax }}{46}{section.19}%
-\contentsline {section}{\numberline {20.\relax }}{47}{section.20}%
-\contentsline {section}{\numberline {21.\relax }Положение неметаллов в Периодической системе. Типичные свойства и степени окисления неметаллов. Основные типы соединений, образуемых неметаллами.}{48}{section.21}%
-\contentsline {subsection}{\numberline {21.1.\relax }Химические свойства неметаллов}{49}{subsection.21.1}%
-\contentsline {section}{\numberline {22.\relax }Галогены. Галогеноводороды. Взаимодействие галогенов с водой. Кислородные соединения галогенов.}{51}{section.22}%
-\contentsline {subsection}{\numberline {22.1.\relax }Галогены}{51}{subsection.22.1}%
-\contentsline {paragraph}{Простые вещества}{51}{subsection.22.1}%
-\contentsline {subsection}{\numberline {22.2.\relax }Галогеноводороды}{51}{subsection.22.2}%
-\contentsline {paragraph}{Получение}{51}{subsection.22.2}%
-\contentsline {subsection}{\numberline {22.3.\relax }Кислородные соединения галогенов}{52}{subsection.22.3}%
-\contentsline {section}{\numberline {23.\relax }}{53}{section.23}%
-\contentsline {section}{\numberline {24.\relax }}{54}{section.24}%
-\contentsline {section}{\numberline {25.\relax }}{55}{section.25}%
-\contentsline {section}{\numberline {26.\relax }Понятие комплексного соединения. Координационная теория Вернера. Типы центральных атомов и лигандов. Геометрическое строение, координационные числа и изомерия комплексов.}{56}{section.26}%
+\contentsline {section}{\numberline {14.\relax }Кислоты и основания по Аррениусу. Ион гидроксония. Сильные и слабые кислоты и основания. Константы кислотности и основности. Ступенчатая диссоциация на примере фосфорной кислоты.}{33}{section.14}%
+\contentsline {section}{\numberline {15.\relax }Кислотность по Бренстеду, сопряженные кислоты и основания. Вода как кислота и основание. Автоионизация воды, ион гидроксония. pH растворов. Расчет pH растворов слабых кислот и оснований.}{35}{section.15}%
+\contentsline {subsection}{\numberline {15.1.\relax }Кислотность по Бренстеду}{35}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2.\relax }pH растворов}{36}{subsection.15.2}%
+\contentsline {section}{\numberline {16.\relax }Гидролиз солей. Буферные растворы. Кислоты и основания по Льюису}{38}{section.16}%
+\contentsline {subsection}{\numberline {16.1.\relax }Механизм гидролиза солей}{38}{subsection.16.1}%
+\contentsline {subsubsection}{\numberline {16.1.1.\relax }Слабое основание + сильная кислота}{38}{subsubsection.16.1.1}%
+\contentsline {subsubsection}{\numberline {16.1.2.\relax }Сильное основание + слабая кислота}{39}{subsubsection.16.1.2}%
+\contentsline {subsubsection}{\numberline {16.1.3.\relax }Слабое основание + слабая кислота}{39}{subsubsection.16.1.3}%
+\contentsline {subsubsection}{\numberline {16.1.4.\relax }Сильное основание + сильная кислота}{39}{subsubsection.16.1.4}%
+\contentsline {subsection}{\numberline {16.2.\relax }Буферные растворы}{39}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3.\relax }Кислоты и основания по Льюису}{40}{subsection.16.3}%
+\contentsline {section}{\numberline {17.\relax }Понятия окисления и восстановления. Типичные восстановители и окислители. Составление уравнений окислительно-восстановительных реакций: методы электронного и электронно-ионного баланса.}{41}{section.17}%
+\contentsline {subsection}{\numberline {17.1.\relax }Типичные окислители и восстановители}{42}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2.\relax }Методы электронного и электронно-ионного баланса}{42}{subsection.17.2}%
+\contentsline {section}{\numberline {18.\relax }Окислительно-восстановительные потенциалы. Сопряженные окислители и восстановители. Уравнение Нернста. Диаграммы Латимера. Связь ЭДС с термодинамическими свойствами.}{45}{section.18}%
+\contentsline {subsection}{\numberline {18.1.\relax }Окислительно-восстановительные потенциалы.}{45}{subsection.18.1}%
+\contentsline {subsection}{\numberline {18.2.\relax }Сопряженные окислители и восстановители.}{45}{subsection.18.2}%
+\contentsline {subsection}{\numberline {18.3.\relax }Уравнения Нернста.}{45}{subsection.18.3}%
+\contentsline {section}{\numberline {19.\relax }Химические источники тока, их классификация. Электролиз растворов и расплавов.}{47}{section.19}%
+\contentsline {subsection}{\numberline {19.1.\relax }Электролиз}{48}{subsection.19.1}%
+\contentsline {section}{\numberline {20.\relax }Положение неметаллов в Периодической системе. Типичные свойства и степени окисления неметаллов. Основные типы соединений, образуемых неметаллами.}{50}{section.20}%
+\contentsline {subsection}{\numberline {20.1.\relax }Химические свойства неметаллов}{51}{subsection.20.1}%
+\contentsline {section}{\numberline {21.\relax }Галогены. Галогеноводороды. Взаимодействие галогенов с водой. Кислородные соединения галогенов.}{53}{section.21}%
+\contentsline {subsection}{\numberline {21.1.\relax }Галогены}{53}{subsection.21.1}%
+\contentsline {paragraph}{Простые вещества}{53}{subsection.21.1}%
+\contentsline {subsection}{\numberline {21.2.\relax }Галогеноводороды}{53}{subsection.21.2}%
+\contentsline {paragraph}{Получение}{53}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.3.\relax }Кислородные соединения галогенов}{54}{subsection.21.3}%
+\contentsline {section}{\numberline {22.\relax }Халькогены. Отличительные свойства кислорода, озон. Химические свойства простых веществ халькогенов. Водородные соединения халькогенов, их оксиды и кислородные кислоты.}{55}{section.22}%
+\contentsline {subsection}{\numberline {22.1.\relax }Кислород}{55}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2.\relax }Сера}{56}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3.\relax }Водородные соединения}{57}{subsection.22.3}%
+\contentsline {subsubsection}{\numberline {22.3.1.\relax }Пероксид водорода}{57}{subsubsection.22.3.1}%
+\contentsline {subsubsection}{\numberline {22.3.2.\relax }Сероводород}{57}{subsubsection.22.3.2}%
+\contentsline {subsubsection}{\numberline {22.3.3.\relax }Сульфиды}{57}{subsubsection.22.3.3}%
+\contentsline {subsection}{\numberline {22.4.\relax }Оксиды и кислородные кислоты}{58}{subsection.22.4}%
+\contentsline {subsubsection}{\numberline {22.4.1.\relax }Диоксид серы. Сернистая кислота.}{58}{subsubsection.22.4.1}%
+\contentsline {subsubsection}{\numberline {22.4.2.\relax }Серный ангидрид. Серная кислота.}{58}{subsubsection.22.4.2}%
+\contentsline {subsubsection}{\numberline {22.4.3.\relax }Бинарные соединения кислорода}{59}{subsubsection.22.4.3}%
+\contentsline {subsubsection}{\numberline {22.4.4.\relax }Качественные реакции}{59}{subsubsection.22.4.4}%
+\contentsline {subsection}{\numberline {22.5.\relax }Селен и Теллур}{60}{subsection.22.5}%
+\contentsline {section}{\numberline {23.\relax }}{61}{section.23}%
+\contentsline {section}{\numberline {24.\relax }Положение d-металлов в Периодической системе. Электронная конфигурация переходных металлов. Три ряда переходных металлов. Особенности металлов первого переходного ряда, химические свойства их соединений.}{62}{section.24}%
+\contentsline {subsection}{\numberline {24.1.\relax }Свойства 3d металлов (1 ряд)}{63}{subsection.24.1}%
+\contentsline {section}{\numberline {25.\relax }Понятие комплексного соединения. Координационная теория Вернера. Типы центральных атомов и лигандов. Геометрическое строение, координационные числа и изомерия комплексов.}{64}{section.25}%
